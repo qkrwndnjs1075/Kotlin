@@ -34,15 +34,14 @@ package org.example
 
     fun doWhen (a: Any){
 
-        when(a){
+        var result = when(a){
 
-            1 -> println("정수 1입니다")
-            "park" -> println("박주원입니다")
+            1 -> "정수 1입니다"
+            "park" -> "박주원입니다"
             is Long -> ("Long 타입 입니다")
             !is String ->("String 타입이 아닙니다")
             else -> println("다 아니다")
-
-
         }
+        println(result)
 
     }
