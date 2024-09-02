@@ -34,7 +34,7 @@ package org.example
 
     fun doWhen (a: Any){
 
-        var result = when(a){
+        val result = when(a){
 
             1 -> "정수 1입니다"
             "park" -> "박주원입니다"
