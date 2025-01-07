@@ -42,8 +42,9 @@ bin/
 .DS_Store1.kt
 1.kt1.kt
 
-*.iml
+
 
 .idea
 .gitignore
 fun.kt
+test.kt
