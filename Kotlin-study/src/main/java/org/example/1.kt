@@ -16,7 +16,7 @@ package org.example
         intArr[2] = 8
 
         println(intArr[4])
-
+        
 
     }
 
