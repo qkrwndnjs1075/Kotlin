@@ -18,6 +18,7 @@ package org.example
         println(intArr[4])
 
         println("dddd")
+        print("ddd")
 
     }
 
