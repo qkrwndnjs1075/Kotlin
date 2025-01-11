@@ -3,7 +3,7 @@ package org.example
  fun main(){
 
      var a = 1234
-     var b = 1234L
+     var b = 1234L 
 
      var c = 12.45
      var d = 12.45f
